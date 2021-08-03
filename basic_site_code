@@ -1,0 +1,55 @@
+#dev=Félix Francisco
+<!DOCTYPE html> 
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title> Projeto dev - aula 1 </title>
+  </head>
+  <body>
+    <section></section>
+  <main>
+    <article>
+      <p> Isto é um paragrafo de estudo </p>
+      <header>
+    <h1>Félix Francisco </h1>
+    <h2> Dev-front-end</h2>
+    <h3> who i am? </h3>
+        <figure>
+        <img src =https://catrangers.files.wordpress.com/2012/10/gato-felix.jpg
+             alt="It´s me Felix">
+          <figcaption> flx.com.br  </figcaption>
+        </figure>
+      </header>
+                   
+    <p> i m felix a good guy , training to be a dev/ tag +"p"+ is paragraph/ ul=unordered list ,li=listem item/ol=ordened listem/ a= ancored, link to redict a site / em= effect to make words italic/ strong =highlight text in bold/ span = advice / header = header of the site/footer= footer note  </p>
+    <p2> tags de conteudo/ div= tags de divisão,only box,ordered contents  / section = separate, give mean to the item / main = principal content/ article = contents is independent from the site/ figure = image tag / figcaption= subtitle in figure</p2> 
+       
+    <section>
+    <ul>
+      <li> <strong>java </strong> </li>
+    </ul>
+    
+    <ol>
+      <li>linux </li>
+      <li> Js</li>
+      </ol>
+    </section>
+   
+    <span>Isso é apenas um teste </span>
+   
+    <div> 
+    <a href="http://github.com.br">github </a>
+    <a href="http://google.com.br">google </a>
+    </div>
+      <aside> 
+        <p> ads </p>
+      </main>
+    <footer>
+      
+    <ul> 
+      <li>email</li>
+      <li>linkedn</li>
+    </ul>
+      </footer>
+      </body>
+</html>
